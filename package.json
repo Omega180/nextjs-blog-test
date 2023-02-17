@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "gray-matter": "^4.0.3",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-spring": "^9.6.1",
+    "react-visibility-sensor": "^5.1.1"
+  }
+}
